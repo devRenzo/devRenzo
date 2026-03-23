@@ -3,7 +3,7 @@
 ### **Ingeniero Electrónico | Especialista en Tecnología Nuclear e IoT | Investigador & Docente**
 
 <p align="center">
-  <img width="250" src="https://github.com/user-attachments/assets/999e4e29-3761-4fb0-a2f3-92ee56616a63" alt="Renzo Chan Rios">
+  <img width="250" src="https://github.com/user-attachments/assets/a83d8c69-5285-4777-a49a-4631264d821d" alt="Renzo Chan Rios">
 </p>
 
 ---
